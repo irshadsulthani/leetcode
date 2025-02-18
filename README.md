@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/irshadsulathni/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/irshadsulathni/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/irshadsulathni/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Bit Manipulation
 |  |
 | ------- |
