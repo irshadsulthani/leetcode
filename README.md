@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/irshadsulathni/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/irshadsulathni/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/irshadsulathni/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/irshadsulathni/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
