@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/irshadsulathni/leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/irshadsulathni/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1622-max-value-of-equation](https://github.com/irshadsulathni/leetcode/tree/master/1622-max-value-of-equation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/irshadsulathni/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
@@ -51,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/irshadsulathni/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/irshadsulathni/leetcode/tree/master/0283-move-zeroes) |
+## Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/irshadsulathni/leetcode/tree/master/1622-max-value-of-equation) |
+## Sliding Window
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/irshadsulathni/leetcode/tree/master/1622-max-value-of-equation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/irshadsulathni/leetcode/tree/master/1622-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/irshadsulathni/leetcode/tree/master/1622-max-value-of-equation) |
 <!---LeetCode Topics End-->
