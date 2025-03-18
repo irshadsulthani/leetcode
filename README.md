@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/irshadsulathni/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/irshadsulathni/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/irshadsulathni/leetcode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/irshadsulathni/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/irshadsulathni/leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/irshadsulathni/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/irshadsulathni/leetcode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/irshadsulathni/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/irshadsulathni/leetcode/tree/master/0645-set-mismatch) |
