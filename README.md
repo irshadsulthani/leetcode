@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/irshadsulathni/leetcode/tree/master/1622-max-value-of-equation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/irshadsulathni/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/irshadsulathni/leetcode/tree/master/2159-two-out-of-three) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/irshadsulathni/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/irshadsulathni/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2902-max-pair-sum-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/irshadsulathni/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1622-max-value-of-equation](https://github.com/irshadsulathni/leetcode/tree/master/1622-max-value-of-equation) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/irshadsulathni/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,8 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/irshadsulathni/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/irshadsulathni/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/irshadsulathni/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/irshadsulathni/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
