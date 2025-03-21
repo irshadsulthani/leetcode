@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/irshadsulathni/leetcode/tree/master/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/irshadsulathni/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2159-two-out-of-three](https://github.com/irshadsulathni/leetcode/tree/master/2159-two-out-of-three) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/irshadsulathni/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/irshadsulathni/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2902-max-pair-sum-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 ## String
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/irshadsulathni/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/irshadsulathni/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1970-sorting-the-sentence](https://github.com/irshadsulathni/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/irshadsulathni/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Stack
 |  |
