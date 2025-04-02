@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2902-max-pair-sum-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3516-design-neighbor-sum-service](https://github.com/irshadsulathni/leetcode/tree/master/3516-design-neighbor-sum-service) |
+| [3799-unique-3-digit-even-numbers](https://github.com/irshadsulathni/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/irshadsulathni/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2902-max-pair-sum-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3516-design-neighbor-sum-service](https://github.com/irshadsulathni/leetcode/tree/master/3516-design-neighbor-sum-service) |
+| [3799-unique-3-digit-even-numbers](https://github.com/irshadsulathni/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/irshadsulathni/leetcode/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/irshadsulathni/leetcode/tree/master/0342-power-of-four) |
+| [3799-unique-3-digit-even-numbers](https://github.com/irshadsulathni/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3516-design-neighbor-sum-service](https://github.com/irshadsulathni/leetcode/tree/master/3516-design-neighbor-sum-service) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/irshadsulathni/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
