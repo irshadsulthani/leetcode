@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/irshadsulathni/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/irshadsulathni/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/irshadsulathni/leetcode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/irshadsulathni/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/irshadsulathni/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/irshadsulathni/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/irshadsulathni/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0965-unique-email-addresses](https://github.com/irshadsulathni/leetcode/tree/master/0965-unique-email-addresses) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/irshadsulathni/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/irshadsulathni/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1622-max-value-of-equation](https://github.com/irshadsulathni/leetcode/tree/master/1622-max-value-of-equation) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/irshadsulathni/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
