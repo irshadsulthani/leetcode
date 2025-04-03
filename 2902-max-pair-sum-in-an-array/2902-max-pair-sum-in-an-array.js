@@ -3,25 +3,20 @@
  * @return {number}
  */
 var maxSum = function(nums) {
-    
-    let groups = new Map();
+    let groups = {};
 
     for (let num of nums) {
-        let maxDigit = Math.max(...String(num).split("").map(Number));
-        if (!groups.has(maxDigit)) {
-            groups.set(maxDigit, []);
-        }
-        groups.get(maxDigit).push(num);
+        let key = Math.max(...String(num));
+        (groups[key] ||= []).push(num);
     }
 
-    let maxPairSum = -1;
-
-    for (let [key, values] of groups) {
-        if (values.length > 1) {
-            values.sort((a, b) => b - a); 
-            maxPairSum = Math.max(maxPairSum, values[0] + values[1]);
-        }
-    }
-
-    return maxPairSum;
+    return Math.max(
+        ...Object.values(groups)
+            .map(g => g.sort((a, b) => b - a))
+            .filter(g => g.length > 1)
+            .map(g => g[0] + g[1]),
+        -1
+    );
 };
+
+
