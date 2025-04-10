@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/irshadsulathni/leetcode/tree/master/0147-insertion-sort-list) |
 | [0561-array-partition](https://github.com/irshadsulathni/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/irshadsulathni/leetcode/tree/master/0645-set-mismatch) |
 | [1970-sorting-the-sentence](https://github.com/irshadsulathni/leetcode/tree/master/1970-sorting-the-sentence) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/irshadsulathni/leetcode/tree/master/0002-add-two-numbers) |
+| [0147-insertion-sort-list](https://github.com/irshadsulathni/leetcode/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
 | ------- |
