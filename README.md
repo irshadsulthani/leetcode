@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/irshadsulathni/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/irshadsulathni/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/irshadsulathni/leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/irshadsulathni/leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/irshadsulathni/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0965-unique-email-addresses](https://github.com/irshadsulathni/leetcode/tree/master/0965-unique-email-addresses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/irshadsulathni/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/irshadsulathni/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/irshadsulathni/leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/irshadsulathni/leetcode/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/irshadsulathni/leetcode/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/irshadsulathni/leetcode/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/irshadsulathni/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/irshadsulathni/leetcode/tree/master/0043-multiply-strings) |
 | [3516-design-neighbor-sum-service](https://github.com/irshadsulathni/leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Enumeration
 |  |
