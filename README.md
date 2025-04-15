@@ -89,15 +89,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/irshadsulathni/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/irshadsulathni/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/irshadsulathni/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/irshadsulathni/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/irshadsulathni/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/irshadsulathni/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/irshadsulathni/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/irshadsulathni/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Two Pointers
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/irshadsulathni/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/irshadsulathni/leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
