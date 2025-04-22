@@ -153,11 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/irshadsulathni/leetcode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/irshadsulathni/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0147-insertion-sort-list](https://github.com/irshadsulathni/leetcode/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/irshadsulathni/leetcode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/irshadsulathni/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0342-power-of-four](https://github.com/irshadsulathni/leetcode/tree/master/0342-power-of-four) |
 | [3799-unique-3-digit-even-numbers](https://github.com/irshadsulathni/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
