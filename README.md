@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/irshadsulathni/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/irshadsulathni/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/irshadsulathni/leetcode/tree/master/0645-set-mismatch) |
+| [0824-number-of-lines-to-write-string](https://github.com/irshadsulathni/leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0965-unique-email-addresses](https://github.com/irshadsulathni/leetcode/tree/master/0965-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/irshadsulathni/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/irshadsulathni/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/irshadsulathni/leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/irshadsulathni/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/irshadsulathni/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0824-number-of-lines-to-write-string](https://github.com/irshadsulathni/leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0965-unique-email-addresses](https://github.com/irshadsulathni/leetcode/tree/master/0965-unique-email-addresses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/irshadsulathni/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/irshadsulathni/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
