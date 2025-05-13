@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/irshadsulathni/leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/irshadsulathni/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/irshadsulathni/leetcode/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/irshadsulathni/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/irshadsulathni/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/irshadsulathni/leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/irshadsulathni/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/irshadsulathni/leetcode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/irshadsulathni/leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/irshadsulathni/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/irshadsulathni/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/irshadsulathni/leetcode/tree/master/0645-set-mismatch) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/irshadsulathni/leetcode/tree/master/0147-insertion-sort-list) |
+| [0217-contains-duplicate](https://github.com/irshadsulathni/leetcode/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/irshadsulathni/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/irshadsulathni/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/irshadsulathni/leetcode/tree/master/0645-set-mismatch) |
