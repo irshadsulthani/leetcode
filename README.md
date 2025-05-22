@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/irshadsulathni/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/irshadsulathni/leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/irshadsulathni/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/irshadsulathni/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/irshadsulathni/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/irshadsulathni/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/irshadsulathni/leetcode/tree/master/0283-move-zeroes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/irshadsulathni/leetcode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/irshadsulathni/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/irshadsulathni/leetcode/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/irshadsulathni/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
