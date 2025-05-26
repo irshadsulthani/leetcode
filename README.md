@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/irshadsulathni/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1970-sorting-the-sentence](https://github.com/irshadsulathni/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/irshadsulathni/leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/irshadsulathni/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2825-minimize-string-length](https://github.com/irshadsulathni/leetcode/tree/master/2825-minimize-string-length) |
 ## Stack
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/irshadsulathni/leetcode/tree/master/0020-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/irshadsulathni/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/irshadsulathni/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/irshadsulathni/leetcode/tree/master/0043-multiply-strings) |
+| [2470-removing-stars-from-a-string](https://github.com/irshadsulathni/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3516-design-neighbor-sum-service](https://github.com/irshadsulathni/leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Enumeration
 |  |
