@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/irshadsulathni/leetcode/tree/master/0965-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/irshadsulathni/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/irshadsulathni/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/irshadsulathni/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1622-max-value-of-equation](https://github.com/irshadsulathni/leetcode/tree/master/1622-max-value-of-equation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/irshadsulathni/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/irshadsulathni/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/irshadsulathni/leetcode/tree/master/0645-set-mismatch) |
 | [0965-unique-email-addresses](https://github.com/irshadsulathni/leetcode/tree/master/0965-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/irshadsulathni/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/irshadsulathni/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/irshadsulathni/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/irshadsulathni/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2159-two-out-of-three](https://github.com/irshadsulathni/leetcode/tree/master/2159-two-out-of-three) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/irshadsulathni/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/irshadsulathni/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/irshadsulathni/leetcode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/irshadsulathni/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/irshadsulathni/leetcode/tree/master/1970-sorting-the-sentence) |
 ## Counting
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/irshadsulathni/leetcode/tree/master/0561-array-partition) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/irshadsulathni/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Depth-First Search
 |  |
 | ------- |
