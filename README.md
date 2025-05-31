@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/irshadsulathni/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2902-max-pair-sum-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/irshadsulathni/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-design-neighbor-sum-service](https://github.com/irshadsulathni/leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3799-unique-3-digit-even-numbers](https://github.com/irshadsulathni/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/irshadsulathni/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/irshadsulathni/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/irshadsulathni/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/irshadsulathni/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
