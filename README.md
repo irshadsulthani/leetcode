@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/irshadsulathni/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/irshadsulathni/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/irshadsulathni/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/irshadsulathni/leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/irshadsulathni/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/irshadsulathni/leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0965-unique-email-addresses](https://github.com/irshadsulathni/leetcode/tree/master/0965-unique-email-addresses) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/irshadsulathni/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/irshadsulathni/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/irshadsulathni/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/irshadsulathni/leetcode/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/irshadsulathni/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/irshadsulathni/leetcode/tree/master/0392-is-subsequence) |
 ## Union Find
 |  |
 | ------- |
