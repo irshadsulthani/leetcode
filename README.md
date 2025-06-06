@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/irshadsulathni/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/irshadsulathni/leetcode/tree/master/0645-set-mismatch) |
 | [0824-number-of-lines-to-write-string](https://github.com/irshadsulathni/leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0941-sort-array-by-parity](https://github.com/irshadsulathni/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/irshadsulathni/leetcode/tree/master/0965-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/irshadsulathni/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/irshadsulathni/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/irshadsulathni/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/irshadsulathni/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/irshadsulathni/leetcode/tree/master/0392-is-subsequence) |
+| [0941-sort-array-by-parity](https://github.com/irshadsulathni/leetcode/tree/master/0941-sort-array-by-parity) |
 ## Queue
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/irshadsulathni/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/irshadsulathni/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/irshadsulathni/leetcode/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/irshadsulathni/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/irshadsulathni/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/irshadsulathni/leetcode/tree/master/1970-sorting-the-sentence) |
 ## Counting
