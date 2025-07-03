@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/irshadsulathni/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/irshadsulathni/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/irshadsulthani/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/irshadsulthani/leetcode/tree/master/2881-split-strings-by-separator) |
 | [2902-max-pair-sum-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/irshadsulathni/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/irshadsulathni/leetcode/tree/master/0043-multiply-strings) |
 | [2288-count-operations-to-obtain-zero](https://github.com/irshadsulathni/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/irshadsulathni/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2639-separate-the-digits-in-an-array](https://github.com/irshadsulthani/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3516-design-neighbor-sum-service](https://github.com/irshadsulathni/leetcode/tree/master/3516-design-neighbor-sum-service) |
 ## Enumeration
 |  |
