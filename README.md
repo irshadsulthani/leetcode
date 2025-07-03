@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/irshadsulathni/leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0941-sort-array-by-parity](https://github.com/irshadsulathni/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/irshadsulathni/leetcode/tree/master/0965-unique-email-addresses) |
+| [1137-height-checker](https://github.com/irshadsulthani/leetcode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/irshadsulathni/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/irshadsulathni/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/irshadsulathni/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/irshadsulathni/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/irshadsulathni/leetcode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/irshadsulathni/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1137-height-checker](https://github.com/irshadsulthani/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/irshadsulathni/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/irshadsulathni/leetcode/tree/master/1970-sorting-the-sentence) |
 ## Counting
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/irshadsulathni/leetcode/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/irshadsulthani/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/irshadsulathni/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Depth-First Search
 |  |
