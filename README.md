@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/irshadsulathni/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2288-count-operations-to-obtain-zero](https://github.com/irshadsulathni/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2752-sum-multiples](https://github.com/irshadsulthani/leetcode/tree/master/2752-sum-multiples) |
+| [2812-find-the-maximum-achievable-number](https://github.com/irshadsulthani/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/irshadsulathni/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
