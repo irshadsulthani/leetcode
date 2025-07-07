@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/irshadsulthani/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/irshadsulthani/leetcode/tree/master/2881-split-strings-by-separator) |
 | [2902-max-pair-sum-in-an-array](https://github.com/irshadsulathni/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/irshadsulthani/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/irshadsulathni/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-design-neighbor-sum-service](https://github.com/irshadsulathni/leetcode/tree/master/3516-design-neighbor-sum-service) |
 | [3799-unique-3-digit-even-numbers](https://github.com/irshadsulathni/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/irshadsulathni/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/irshadsulathni/leetcode/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/irshadsulathni/leetcode/tree/master/0941-sort-array-by-parity) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/irshadsulthani/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Queue
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/irshadsulthani/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/irshadsulathni/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/irshadsulathni/leetcode/tree/master/1970-sorting-the-sentence) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/irshadsulthani/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
 | ------- |
